@@ -80,6 +80,7 @@ Please report issues on [GitHub](https://github.com/mrdvt92/perl-Excel-Writer-XL
 # COPYRIGHT
 
 Copyright (c) 2022 Michael R. Davis
+
 Copyright (c) 2001-2005 Tony Bowden (IO::Scalar portion used here "under the same terms as Perl itself")
 
 This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
