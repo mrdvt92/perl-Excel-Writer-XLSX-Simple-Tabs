@@ -7,7 +7,6 @@ WriteMakefile(
     LICENSE        => 'perl',
     BUILD_REQUIRES => {
                        'ExtUtils::MakeMaker' => 6.46,
-                       'ExtUtils::MakeMaker::META_MERGE::GitHub' => 0,
                        'Test::Simple'                            => 0.44,
                       },
     PREREQ_PM     => {

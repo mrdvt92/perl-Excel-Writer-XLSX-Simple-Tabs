@@ -1,5 +1,5 @@
 Name:           perl-Excel-Writer-XLSX-Simple-Tabs
-Version:        0.03
+Version:        0.04
 Release:        1%{?dist}
 Summary:        Simple Interface to the Excel::Writer::XLSX Package
 License:        GPL+ or Artistic
@@ -10,7 +10,6 @@ BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildArch:      noarch
 BuildRequires:  perl(Excel::Writer::XLSX)
 BuildRequires:  perl(ExtUtils::MakeMaker)
-BuildRequires:  perl(ExtUtils::MakeMaker::META_MERGE::GitHub)
 BuildRequires:  perl(IO::Scalar)
 BuildRequires:  perl(Package::New)
 BuildRequires:  perl(Test::Simple) >= 0.44
